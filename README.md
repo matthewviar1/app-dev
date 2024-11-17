@@ -7,7 +7,7 @@ the onepiece **Monkey D. Luffy** wants to become the King of all pirates. Along 
 
 | Main characters |Roles |
 |-----------------|----- |
-|Monkey D. Luffy| |wants to become the King  of all pirates.|
+|Monkey D. Luffy |wants to become the King  of all pirates.|
 |Nami | a greedy thief who has a knack for navigation; Usopp, a great liar who has an affinity for inventing. | 
 |Robin| former member of Baroque Works. The gang sets sail to.|
 
